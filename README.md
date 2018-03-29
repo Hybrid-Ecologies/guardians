@@ -1,1 +1,4 @@
-# guardians
+# Guardians of Practice
+## A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
+
+Failure, whether it be "complete-and-utter" or "a minor setback", occurs in a variety of different creative practices, yet how it is perceived, handled, and recovered from is a lesser explored design space. Failing to address these perceptions of failure can have psychological repercussions, discourage users from continuing a practice, and form cultural stigma such as those associated with STEM fields. However, mediating practices to develop a culture of resiliency and perseverance is key to sustaining a (lifelong) practice and reshaping pedagogical strategies. In this work, we outline the design space of "guardians", or elements of a creative practice that mitigate the psychological effects of failure. Through an ethnographic approach, we contribute an inventory of failure-mitigation strategies from a variety of creative disciplines. We synthesize guidelines for the design of new guardians and present a preliminary exploration of guardians for the lasercutting practice – effigies and test tags. 
